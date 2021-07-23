@@ -8,7 +8,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently studying on [Labenu](https://www.labenu.com.br/);
+- 👨🏽‍💻 I’m currently studying at [Labenu](https://www.labenu.com.br/);
 - 🌱 I’m currently learning React and Java; 
 - 💬 Ask me about anything, I am happy to reply;
 - ⚡️ Fun-Fact: I am a Comercial Pilot and Flight Instructor;
