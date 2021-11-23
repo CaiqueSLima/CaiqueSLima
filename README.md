@@ -9,7 +9,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently studying at [Labenu](https://www.labenu.com.br/);
-- 🌱 I’m currently learning NodeJs and Java; 
+- 🌱 I’m currently learning microservices in Node.js; 
 - 💬 Ask me about anything, I am happy to reply;
 - ⚡️ Fun-Fact: I am a Comercial Pilot and Flight Instructor;
 - 📫 How to reach me: caiquesouto@hotmail.com;
