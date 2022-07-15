@@ -9,7 +9,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m graduated from [Labenu](https://www.labenu.com.br/), and I work at [Shopper](https://www.shopper.com.br);
-- 🌱 I’m currently studying Python; 
+- 🌱 I’m currently studying Django and NestJS; 
 - 💬 Ask me about anything, I am happy to reply;
 - ⚡️ Fun-Fact: I am a Comercial Pilot and Flight Instructor;
 - 📫 How to reach me: caiquesouto@hotmail.com;
